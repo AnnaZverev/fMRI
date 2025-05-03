@@ -1,0 +1,16 @@
+
+numpy
+scipy
+pandas
+nibabel
+pybids
+datalad
+torch
+torchvision
+scikit-learn
+imbalanced-learn 
+umap-learn
+scikit-image
+opencv-python
+matplotlib
+seaborn
